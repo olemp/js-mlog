@@ -1,0 +1,18 @@
+{
+  "name": "js-mlog",
+  "homepage": "https://github.com/olemp/js-mlog",
+  "authors": [
+    "olemp <olemp@puzzlepart.com>"
+  ],
+  "description": "Client Side logging",
+  "main": "dist\\js-mlog.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
